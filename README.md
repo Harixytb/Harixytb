@@ -7,8 +7,8 @@ Salut ! Moi c'est Harix, un passionné par le développement et la culture infor
 - 💻 Développement Web (Html, Css, Js)
 
 ## 🌐 A propos de mes projets
-1. [Anthium Faction](https://discord.gg/GKxXMGecC2) - Un serveur minecraft bedrock edition.
-2. [HarixCode](https://discord.gg/myfEbF67D2) - Un serveur discord ou il aura des plugin pocketmine payant est gratuit est aussi un entrain de code.
+1. [LinaCraft Faction](https://discord.gg/GKxXMGecC2) - Un serveur minecraft bedrock edition.
+2. [Harix'Shop](https://discord.gg/myfEbF67D2) - Un serveur discord ou il aura des pack de textures et plugin pocketmine payant est gratuit est aussi un entrain de code.
 
 N'hésitez pas à rejoidre les serveur pour en savoir plus.
 
