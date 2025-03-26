@@ -22,11 +22,6 @@ I'm passionate about creating custom solutions for Minecraft and other gaming co
 ## 🛠️ Current Projects:
 - **LinaGame** 🎮: Main project focused on game server management, plugin development, and web solutions.
 - **Linacraft** ⚔️: Minecraft server featuring PvP, modded gameplay, and custom plugins.
-- **LinaFieldMods** 🌾: Developing mods and maps for **Farming Simulator 22/25**.
-
-## 🚧 Future Projects (Coming Soon):
 - **LinaShop** 🛒: Marketplace for Minecraft plugins, mods, and resources.
-- **LinaHeberg** 💻: Hosting services and Discord bots.
-- **LinaSetup** ⚙️: Server setup and configuration services for Minecraft and Discord.
 
 Feel free to explore my repositories for my latest work and contributions! ✨
