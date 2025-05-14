@@ -9,18 +9,17 @@ I'm a French developer specialized in **Minecraft plugins**, **server management
 - **Mods & maps for Farming Simulator**
 
 ## 🌍 Find my projects and connect with me:
-- [Website](https://www.harixdev.com) 🌐
-- [X (formerly Twitter)](https://x.com/HarixDev) 🐦
-- [Instagram](https://instagram.com/HarixDev) 📸
-- [TikTok](https://tiktok.com/@HarixDev) 🎶
-- [YouTube](https://youtube.com/c/HarixDev) 🎥
-- [Discord](https://discord.gg/HarixDev) 🎮
+- [Website]() 🌐
+- [X (formerly Twitter)]() 🐦
+- [Instagram]() 📸
+- [TikTok]() 🎶
+- [YouTube]() 🎥
+- [Discord]) 🎮
 
 ## 🚀 About Me
 I'm passionate about creating custom solutions for Minecraft and other gaming communities. I love collaborating on exciting projects and I'm always open to new ideas and challenges.
 
 ## 🛠️ Current Projects:
-- **LinaGame** 🎮: Main project focused on game server management, plugin development, and web solutions.
 - **Linacraft** ⚔️: Minecraft server featuring PvP, modded gameplay, and custom plugins.
 - **LinaShop** 🛒: Marketplace for Minecraft plugins, mods, and resources.
 
